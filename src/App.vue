@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-slate-800 h-screen flex">
+  <div class="bg-[#D6E1EF] h-screen flex">
     <QrComponent/>
   </div>
 </template>
