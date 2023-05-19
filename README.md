@@ -5,3 +5,7 @@
 - Yarn
 - Yarn dev
 - Enjoy!
+
+## Deployed site:
+
+https://responsive-qr-component.vercel.app/
